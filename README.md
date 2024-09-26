@@ -1,3 +1,5 @@
+![KSP soundtrack](https://github.com/user-attachments/assets/d5a38070-7a4f-4fbb-b0a1-ab6f71088c46)
+
 KSP 1&2 Mixed Soundtrack
 Keep the original soundtrack of KSP 1 while adding the most fitting tracks from KSP 2.
 
