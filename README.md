@@ -15,10 +15,6 @@ Dependencies:
 
 Highly recommended: 
 •	KSP Community Fixes and it’s dependencies (not necessary but highly recommended because it avoids audio stuttering during loading)
-
-Download :
-•	SpaceDock
-•	GitHub
  
 Installation :
 1.	First, install Soundtrack Editor Forked and it's dependencies
